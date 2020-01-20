@@ -5,8 +5,7 @@ Code with Nyan
 * Code with Nyan is an embedded, domain-specific language that allows kids to discover the wonders of programming through a friendly drawing interface. Kids use creativity and problem solving skills to explore different ways to draw. All the while, children learn valuable programming concepts such as: pattern recognition, method chaining, and looping. Go forth and code!
 
 ## Links to Project:
-* [http://www.codewithnyan.com](http://www.codewithnyan.com)
-* [codewithnyan.github.io](http://nyansnakes.github.io/codewithnyan.github.io)
+* [https://cpkenn09y.github.io/CodeWithNyan](https://cpkenn09y.github.io/CodeWithNyan/)
 
 Team Members
 ------------
